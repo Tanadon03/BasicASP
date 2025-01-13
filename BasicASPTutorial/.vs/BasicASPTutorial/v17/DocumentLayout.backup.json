@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\VS\\BasicASPTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|d:\\project\\vs\\basicasptutorial\\basicasptutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|solutionrelative:basicasptutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|d:\\project\\vs\\basicasptutorial\\basicasptutorial\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|solutionrelative:basicasptutorial\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|d:\\project\\vs\\basicasptutorial\\basicasptutorial\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|solutionrelative:basicasptutorial\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|d:\\project\\vs\\basicasptutorial\\basicasptutorial\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|solutionrelative:basicasptutorial\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|d:\\project\\vs\\basicasptutorial\\basicasptutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED5F2C-57EB-45A7-AEEE-68353FDDC3BB}|BasicASPTutorial\\BasicASPTutorial.csproj|solutionrelative:basicasptutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BasicASPTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BasicASPTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:44:15.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "BasicASPTutorial\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "BasicASPTutorial\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:08:53.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "BasicASPTutorial\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "BasicASPTutorial\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:05:08.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "BasicASPTutorial\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "BasicASPTutorial\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:30:38.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Program.cs",
+              "RelativeDocumentMoniker": "BasicASPTutorial\\Program.cs",
+              "ToolTip": "D:\\Project\\VS\\BasicASPTutorial\\BasicASPTutorial\\Program.cs",
+              "RelativeToolTip": "BasicASPTutorial\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:21:43.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
