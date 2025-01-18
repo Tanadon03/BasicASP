@@ -1,6 +1,22 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model IEnumerable<BasicASPTutorial.Models.Student>;
 @{
+    ViewData["Title"] = "Home";
 }
-	<h1>Student Score</h1>
+
+<h1 class="text-center">คะแนนสอบวิชาคอมพิวเตอร์</h1>
+
+@foreach (var student in Model)
+{
+    <p>Student Id : @student.Id</p>
+    <p>Name : @student.Name</p>
+    <p>Score : @student.Score</p>
+    @if (student.Score>=70){
+        <strong class="text-success">Pass</strong>
+    }
+    else {
+        <strong class="text-danger">Failed</strong>
+    }
+    <hr/>
+
+}
+
